@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Environment
+.env
+
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.idea/
+
+# MacOS
+.DS_Store
